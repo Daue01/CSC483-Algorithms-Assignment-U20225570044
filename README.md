@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Algorithms Analysis and Design - Refactored Assignment
 
 ## Requirements
@@ -14,3 +15,7 @@
 
 **Run Test Suite:**
 `mvn test`
+=======
+# CSC483-Algorithms-Assignment-U20225570044
+A fully functional Java program
+>>>>>>> 38bde79a45d233f87c84ee955eebb6f1eb0f241b
